@@ -1,0 +1,164 @@
+#id1 {
+    width: 100px;
+    padding: 100px;
+    border: solid;
+    margin: 10px;
+    background-color: yellow;
+}
+
+#id2 {
+    width: 100px;
+    padding: 100px;
+    border: solid;
+    margin: 10px;
+    background-color: rgb(255, 0, 200);
+    opacity: 0.50;
+
+}
+
+#id3 {
+    width: 100px;
+    padding: 100px;
+    border: solid;
+    margin: 10px;
+    background-image: linear-gradient(to right, white, black);
+
+}
+
+
+#id4 {
+
+    width: 200px;
+    padding: 200px;
+    border-color: solid;
+    margin: 10px;
+    background-image: url(imagens/imagem.jpg);
+    background-repeat: no-repeat;
+
+}
+
+#id5 {
+
+    width: 200px;
+    padding: 200px;
+    border-color: solid;
+    margin: 10px;
+    background-image: url(imagens/imagem.jpg);
+    background-repeat: repeat;
+
+}
+
+#id6 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border: solid 10px;
+
+
+
+
+}
+#id7 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border: none 10px;
+    background-color: aquamarine;
+
+
+
+
+}
+#id8 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border: hidden 10px;
+    background-color: aqua;
+
+
+
+
+}
+#id9 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border:dotted  10px;
+    background-color: bisque;
+
+
+
+
+}
+#id10 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border: dashed 10px;
+    background-color: blue;
+
+
+
+
+}
+#id11 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border:double 10px;
+    background-color: blueviolet;
+
+
+
+
+}
+#id12 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border:groove  10px;
+    background-color: chartreuse;
+
+
+
+
+}
+#id13 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border:ridge  10px;
+    background-color: chocolate;
+
+
+
+
+}
+#id14 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border:inset  10px;
+    background-color: darkgreen;
+
+
+
+
+}
+#id15 {
+    width: 100px;
+    padding: 100px;
+    margin: 10px;
+    border:outset  10px;
+    background-color: darkmagenta;
+
+
+
+
+}
+img{
+    border-radius: 50%;
+width: 200px;
+height: 200px;
+}
